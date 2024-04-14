@@ -1,0 +1,143 @@
+{
+  "appointments": [
+    {
+      "name": "Base",
+      "phone": 7055555555,
+      "date": "2024/04/16",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Förmiddag",
+      "id": "3359"
+    },
+    {
+      "id": "5079",
+      "name": "",
+      "date": "2024/04/16",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "c60c",
+      "name": "sdgfdgf",
+      "phone": 99990009,
+      "date": "2024/04/24",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Kväll"
+    },
+    {
+      "id": "b2ed",
+      "name": "sgfdfg",
+      "phone": 9990000,
+      "date": "2024/04/24",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "b53c",
+      "name": "xsadsd",
+      "phone": 900099,
+      "date": "2024/04/24",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "febd",
+      "name": "999000",
+      "phone": 9999000,
+      "date": "2024/10/12",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "16ef",
+      "name": "",
+      "date": "2024/04/18",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "f2ea",
+      "name": "gyyfi",
+      "phone": 757767,
+      "date": "2024/04/20",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "385b",
+      "name": "gkgk",
+      "phone": 85678678,
+      "date": "2024/04/27",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Kväll"
+    },
+    {
+      "id": "ca87",
+      "name": "lilyilyio",
+      "phone": 67867,
+      "date": "2024/04/19",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Kväll"
+    },
+    {
+      "id": "e468",
+      "name": "iliölyiö",
+      "phone": 56786786,
+      "date": "2024/04/18",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "dc2f",
+      "name": "",
+      "date": "2024/04/16",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "0840",
+      "name": "asdfsdfsdfsdfdfdfdf",
+      "phone": 45245245,
+      "date": "2024/04/16",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "53d5",
+      "name": "afafafafafaf",
+      "phone": 43453453,
+      "date": "2024/04/16",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Kväll"
+    },
+    {
+      "id": "4d72",
+      "name": "",
+      "date": "2024/04/19",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "85cd",
+      "name": "fjfjf",
+      "phone": 45345,
+      "date": "2024/04/19",
+      "typeOfAppointment": "Kallspa",
+      "timeOfDay": "Eftermiddag"
+    },
+    {
+      "id": "ac39",
+      "name": "",
+      "date": "2024/04/20",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Förmiddag"
+    },
+    {
+      "id": "2582",
+      "name": "jfyjfjy",
+      "phone": 456786,
+      "date": "2024/04/20",
+      "typeOfAppointment": "Varmspa",
+      "timeOfDay": "Kväll"
+    }
+  ]
+}
